@@ -24,8 +24,9 @@
     .nav {
       a {
         text-decoration: none;
+        color: black;
         &.active {
-          color: #409eff;
+          color: blue;
         }
       }
     }
